@@ -12,8 +12,9 @@ Um scanner de portas TCP ultrarrápido, robusto e eficiente desenvolvido totalme
 
 ## 🎥 Demonstração
 
-*(Adicione aqui um GIF ou link de vídeo mostrando o seu script rodando no terminal)*
-`demonstracao.gif`
+https://github.com/user-attachments/assets/e2c374a0-23cb-40b5-af16-e1812fdba1d4
+
+
 
 ## 🛠️ Pré-requisitos
 
