@@ -47,3 +47,4 @@ Após a execução, um arquivo chamado relatorio_varredura.txt será criado ou a
 Este projeto foi desenvolvido por:
 
 [EnricoModz] - [https://github.com/EnricoModz]
+[CHOQUE4399] - [https://github.com/CHOQUE4399?tab=followers]
